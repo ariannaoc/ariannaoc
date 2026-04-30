@@ -1,71 +1,43 @@
-<h1 align="left">✨ ¡Hola! Soy Arianna — Desarrolladora Full Stack en formación</h1>
+# Hola, soy Arianna Olivares 
+ 
+<p align="left">
+  <a href="https://portafolio-zeta-pink-48.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=rocket&logoColor=white" alt="portafolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/ariannaoc" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="mailto:ariannaolivares@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+  </a>
+</p>
 
-###
+### Estudiante de Ingeniería en Sistemas | Desarrolladora Full Stack en formación
 
-<h2 align="left">🖥️🛠️ Tecnologías que domino</h2>
+Soy una desarrolladora en constante construcción. Mi enfoque actual es absorber la lógica detrás de los sistemas y aprender a resolver problemas reales, sin importar el lenguaje. Si no lo sé, lo aprendo sobre la marcha.
 
-###
+---
 
-<h5 align="left">Frontend</h5>
+## 🖥️ Tech Stack & Design
 
-###
-
+<h5 align="left">Frontend & Design</h5>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/astro/FF5D01" height="40" alt="astro logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img src="https://skillicons.dev/icons?i=js,react,vite,astro,tailwind,bootstrap,css,figma" alt="frontend skills" />
 </div>
 
-###
+<br/>
 
-<h5 align="left">Backend</h5>
-
-###
-
+<h5 align="left">Backend & Tools</h5>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" alt="electron logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs,electron,cs,nginx,git,linux" alt="backend skills" />
 </div>
-
-###
 
 <h2 align="left"></h2>
 
-###
-
+## 📊 Mis Estadísticas
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ariannaoc&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=es&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ariannaoc&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
 
-<h2 align="left">📲 ¿Conectamos?</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/ariannaoc" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:ariannaolivares@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
